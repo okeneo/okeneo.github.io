@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: il faut cultiver notre jardin # blog_name will be displayed in your blog page
-blog_description: Quote by Voltaire # a simple whitespace theme for academics
+blog_description: Quote from Voltaire # a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
