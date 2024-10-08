@@ -16,8 +16,8 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Computer Science student at the University of Manitoba. I made the switch from Mathematics in the summer of 2022, with just under half of my Mathematics degree left and am set to graduate in April 2025.
+I am a fourth-year Computer Science student at the University of Manitoba. I made the switch from Mathematics in the summer of 2022, with just under half of my degree left and am set to graduate in April 2025.
 
 I love working with distributed systems, backend technologies, embedded systems, robotics and anything that begins or relates to the word _"cloud"_.
 
-I'm also part of two clubs at the University of Manitoba. In [UMUAS](https://umuas.ca/), we build autonomous drones for the [AEAC](https://www.aerialevolution.ca/) competition, where I lead flight termination (GitHub project [here](https://github.com/UMUAS/)). In [WE Design](https://www.windenergydesign.com/), we’re building a sustainable wind turbine for the [ISWTC](https://www.hanze.nl/en/events/research/2024/07/international-small-wind-turbine-contest-iswtc-hanze-groningen) competition in the Netherlands. I work with the control systems team and write code (primarily `C++`) for microcontrollers, sensors, and any computer or electronics-related tasks.
+I am also an active member of two clubs at the University of Manitoba: [UMUAS](https://umuas.ca/) and [WE Design](https://www.windenergydesign.com/).
